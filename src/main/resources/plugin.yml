@@ -1,0 +1,10 @@
+name: SoftLimit
+main: org.kitteh.softlimit.SoftLimit
+author: mbaxter
+version: '${project.version}'
+description: Allow special members to join no matter the player count
+website: http://kitteh.org
+permissions:
+  softlimit.bypass:
+    description: Enter a server at all times
+    default: op
