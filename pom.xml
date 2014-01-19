@@ -6,7 +6,7 @@
   <artifactId>softlimit</artifactId>
 
   <name>SoftLimit</name>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
 
   <url>http://kitteh.org/</url>
   <properties>
